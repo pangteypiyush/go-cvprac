@@ -1,4 +1,4 @@
-module github.com/aristanetworks/go-cvprac/v3
+module github.com/pangteypiyush/go-cvprac/v3
 
 go 1.13
 
